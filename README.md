@@ -19,3 +19,7 @@ This is a Python-based countdown timer that takes input in seconds, converts it 
 3. Run the program with:
    ```bash
    python countdown_timer.py
+
+## Contributing
+
+We welcome contributions! If you'd like to improve this game or add features, feel free to fork the repository and submit a pull request.
